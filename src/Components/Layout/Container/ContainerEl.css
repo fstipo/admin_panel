@@ -1,5 +1,14 @@
 .section__sidebar {
-  min-width: 200px;
+  min-width: 280px;
   height: 100vh;
+}
+
+.bootstrap-logo {
+  width: '40px';
+  height: '32px';
+}
+
+.dropdown {
+  margin-top: 500px;
 }
 /*# sourceMappingURL=ContainerEl.css.map */
